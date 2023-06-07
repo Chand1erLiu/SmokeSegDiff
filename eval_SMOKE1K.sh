@@ -1,0 +1,1 @@
+python scripts/segmentation_env.py --inp_pth /workspace/ylj/MedSegDiff_v1/data_dir_smoke/SMOKE1K/test/img --out_pth /workspace/ylj/MedSegDiff_v1/data_dir_smoke/SMOKE1K/test/gt
